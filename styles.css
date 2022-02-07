@@ -3,3 +3,8 @@
     width: 70%;
     margin: auto;
 }
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
