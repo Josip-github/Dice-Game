@@ -15,3 +15,4 @@ function winnerOfPlay(){
     }
 }
 
+document.querySelector("h1").innerHTML = winnerOfPlay();
